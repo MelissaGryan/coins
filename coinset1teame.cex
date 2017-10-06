@@ -1,10 +1,10 @@
 WAM inventory number#Label#Issue ID#Material#Denomination#Weight#Die axis#Obverse legend#Obverse type#Obverse symbols#Reverse legend#Reverse type#Reverse symbols#Mint#Find spot#Date#Condition
-2001.213##ric.4.crl.363A#silver#denarius###PLAUTILLA AUGUSTA#Bust of Plautilla, hair coiled in ridges, fastened in bun at back, draped, right##CONCORDIA AVGG(usta)#Concordia, draped, standing left, holding patera in extended right hand and sceptre in left hand##Rome###
-2001.219##ric.4.sa.343#silver#denarius###IVLIA MAMAEA AVG#Bust of Julia Mamaea, draped, right##IVNO CONSERVATRIX#Juno, diademed, veiled, draped, standing left, holding patera in right hand and sceptre in left hand; at feet, peacock##Rome###
-2001.252##ric.4.mcs.86##############
-2001.257##ric.4.crl.369##############
-2001.261################
-2001.262################
-2001.263################
-2001.279################
+WAM.2001.213#Denarius of Caracalla#ric.4.crl.363A#silver#denarius###PLAVTILLA AVGVSTA#Head of Plautilla, hair coiled in ridges, fastened in bun at back, draped, right##CONCORDIA AVGG(avgvsti)#Concordia, draped, standing left, holding patera in extended right hand and sceptre in left hand##Rome##202:205#
+WAM.2001.219#Denarius of Severus Alexander#ric.4.sa.343#silver#denarius###IVLIA MAMAEA AVG(augusta)#Head of Julia Mamaea, draped, right##IVNO CONSERVATRIX#Juno, diademed, veiled, draped, standing left, holding patera in right hand and sceptre in left hand; at feet, peacock##Rome##225:235#
+WAM.2001.252#Denarius of Macrinus#ric.4.mcs.86#silver#denarius###IMP(imperator) CM OPEL SEV MACRINVS AVG(augustus)#Head of Macrinus, laureate, cropped bearded, cuirassed, right##SALVS PVBLICA#Salus, draped, seated left on throne with high back, feeding out of patera in right hand snake coiled round altar and holding sceptre in left hand##Rome##217:218#
+WAM.2001.257#Denarius of Caracalla#ric.4.crl.369_denarius#silver#denarius###PLAVTILLA AVGVSTA#Head of Plautilla, hair firmly waved and drawn down on neck, draped, right##VENVS VICTRIX#Venus, naked to waist, standing left, holding apple in extended right hand and palm in left hand, resting left elbow on shield; at feet, left, Cupid##Rome##202:205#
+WAM.2001.261################
+WAM.2001.262################
+WAM.2001.263################
+WAM.2001.279################
 ################
